@@ -1,0 +1,7 @@
+C:\Users\RAJAT\source\repos\lambdafuncAssignmnet\lambdafuncAssignmnet\obj\Debug\lambdafuncAssignmnet.csproj.CoreCompileInputs.cache
+C:\Users\RAJAT\source\repos\lambdafuncAssignmnet\lambdafuncAssignmnet\bin\Debug\lambdafuncAssignmnet.exe.config
+C:\Users\RAJAT\source\repos\lambdafuncAssignmnet\lambdafuncAssignmnet\bin\Debug\lambdafuncAssignmnet.exe
+C:\Users\RAJAT\source\repos\lambdafuncAssignmnet\lambdafuncAssignmnet\bin\Debug\lambdafuncAssignmnet.pdb
+C:\Users\RAJAT\source\repos\lambdafuncAssignmnet\lambdafuncAssignmnet\obj\Debug\lambdafuncAssignmnet.csprojAssemblyReference.cache
+C:\Users\RAJAT\source\repos\lambdafuncAssignmnet\lambdafuncAssignmnet\obj\Debug\lambdafuncAssignmnet.exe
+C:\Users\RAJAT\source\repos\lambdafuncAssignmnet\lambdafuncAssignmnet\obj\Debug\lambdafuncAssignmnet.pdb
